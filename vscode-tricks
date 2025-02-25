@@ -1,0 +1,2 @@
+1) CTRL F na ALT ENTER <- SHIFT -> -> -> CTRL C CTRL N CTRL V
+	echo " CTRL V " | sort | uniq -c ENTER
