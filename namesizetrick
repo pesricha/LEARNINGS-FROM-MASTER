@@ -1,0 +1,1 @@
+while len(''.join(name).replace(START, '')) < n:
