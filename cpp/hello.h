@@ -1,4 +1,3 @@
-int a;
 extern int b;
-int c();
+int c(){};
 extern int d();
